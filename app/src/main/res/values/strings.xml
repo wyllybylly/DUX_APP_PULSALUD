@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PulSalud</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_de_la_app">Logo de la Aplicacion</string>
+    <string name="name_app">PulSalud</string>
+    <string name="onBoarding_First">PulSalud permite que recibas la ayuda que necesitas en situaciones de emergencias médicas.</string>
+    <string name="onBoarding_Next_Btn">Siguiente -></string>
+    <string name="onBoarding_Third">Crear tu perfil, cargando tus datos médicos esenciales, como grupo sanguíneo, alergias y enfermedades crónicas.</string>
+    <string name="onBoarding_Third_Btn_Fin">Fin</string>
+    <string name="Text_for_Testing">Enter text</string>
+    <string name="btn_generate_qr">GENERAR CODIGO</string>
+    <string name="text_img_qr_code_generated">Código QR generado</string>
+    <string name="onBoarding_fourth">En una emergencia, los paramédicos podrán escanear tu código QR y ver información valiosa sobre tu salud, que les ayudará a darte la mejor atención.</string>
+    <string name="onBoarding_sixth_btn_profile">Perfil</string>
+    <string name="btn_save_qr_code">GUARDAR</string>
+    <string name="onBoardingTitle1">¿Qué hacemos?</string>
+    <string name="onBoardingTitle2">¿Cómo lo hacemos?</string>
+    <string name="onBoardingSecond">Generamos un código QR con tus datos médicos vitales y puedes colocarlo donde prefieras.</string>
+    <string name="onBoardingTitle3">¿Qué tienes que hacer?</string>
+    <string name="onBoardingTitle4">¿Cómo usarlo?</string>
+    <string name="onBoardingTitle5">Tus Datos Seguros</string>
+    <string name="onBoardingFifth">PulSalud no accede a tus datos personales, estos se almacenan en tu teléfono y sólo pueden ser leídos a través del código QR.</string>
+    <string name="onBoardingTitle6">Comencemos</string>
+    <string name="on_boarding_btn_create_profile">Crear Perfil</string>
+    <string name="on_boarding_btn_reader">IR AL LECTOR QR</string>
+    <string name="btn_save_code">GUARDAR</string>
+    <string name="code_view_title">CÓDIGO QR</string>
+    <string name="btn_cancel">CANCELAR</string>
+</resources>

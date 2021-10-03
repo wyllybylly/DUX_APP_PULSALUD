@@ -1,0 +1,2 @@
+rootProject.name = "PulSalud"
+include ':app'
